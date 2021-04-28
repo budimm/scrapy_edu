@@ -16,6 +16,9 @@ class QuotesSpider(scrapy.Spider):
             f.write(response.body)
 			
 
+
+# Jalankan di Anaconda Prompt, atau prompt.exe 			
+			
 # scrapy shell "http://quotes.toscrape.com/page/1/"			  # selecting
 
 # response.css('title')
