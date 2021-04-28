@@ -34,7 +34,7 @@ class QuotesSpider(scrapy.Spider):
 # response.xpath('//title')
 # response.xpath('//title/text()').get()
 
-
+# exit: untuk keluar
 
 
 # extracting :
